@@ -1,5 +1,4 @@
 # Assignment8
-
 #### Author
  John Lee
 
@@ -25,7 +24,7 @@ This projects shows the content of the article as instructed on the assignment8 
 
 ## Known Bugs
 
-* There is no known bug so far,incase of any feel free to reach out.
+* There are no known bugs so far,incase of any feel free to reach out.
 
 
 ## License
