@@ -10,10 +10,9 @@ This is assingmant8 project done strictly according to the instructions outlined
 * HTML
 * CSS
 
-
 ## Description
 
-This projects shows the content of the article as instructed on the assignment8 document. Every aspect of the elements have been strictly implemented.
+This is a project report written with HTML as instructed in the assignment 8 document. Every aspect of the elements have been strictly implemented.
 
 ## Setup/Installation Requirements
 
